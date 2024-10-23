@@ -9,7 +9,7 @@ Bem-vindo(a) ao meu perfil! Sou Engenheira de Dados, apaixonada por desenvolver 
 
 ## 🌟 Projetos em Destaque
 - [Book Club](https://github.com/Mariana-Batista/Book_Club)
-- [Gerenciador de clientes](https://github.com/Mariana-Batista/Gerenciador-de-clientes)
+<!-- [Gerenciador de clientes](https://github.com/Mariana-Batista/Gerenciador-de-clientes)-->
 
 
 ## 📫 Como me encontrar
